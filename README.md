@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Alvim de Paula Serrão</h1>
-<h3 align="center">Estudante de ciências de dados e machine learning, e Engenheiro Mecânico formado na Faculdade do Centro leste (UCL))</h3>
+<h3 align="center">Estudante de ciências de dados e machine learning, e Engenheiro Mecânico formado na Faculdade do Centro leste (UCL)</h3>
 
 - 🌱 Atualmente aprendendo sobre **machine learning e bancos de dados**
 
